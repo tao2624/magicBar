@@ -40,8 +40,6 @@
 | Upper_computer     | QT上位机，训练模型，数据收集                           |
 | README.md          | 项目文稿内容                                           |
 
-<img src="assets/image-20240923103405425.png" alt="image-20240923103405425" style="zoom:67%;" /> 
-
 # 4.开发环境配置说明
 
 **Keil环境配置：**
