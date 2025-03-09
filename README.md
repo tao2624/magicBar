@@ -139,8 +139,6 @@
 
 2.设备插上串口 打开Acceptance_of_data.exe 进行运动轨迹数据收集 **选好串口** com口
 
-![725afedc2ea81aa7d11fb1bed04fbc3](assets/725afedc2ea81aa7d11fb1bed04fbc3.jpg)
-
 3.选择你想要的运动轨迹 运功轨迹可以做你自己想做的 也可以重新训练原本的 原本的轨迹图像位于
 	.\电子法棒\Model_trajectories中
 
